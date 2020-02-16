@@ -4,6 +4,10 @@
 
 [workdir](https://godoc.org/github.com/gregoryv/workdir) - Go package defines WorkDir type for easy file operations
 
+Note! This package is the precursor
+of [working](https://godoc.org/github.com/gregoryv/working). I was not
+quite happy with name workdir, but keeping it open for now.
+
 This package is most useful if you need to do multiple file operations
 within one directory. Eg. something like
 
